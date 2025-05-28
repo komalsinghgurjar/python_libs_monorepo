@@ -39,3 +39,7 @@ plain = b.decrypt(cipher)
 
 print("Decrypted: ", plain)
 ```
+
+## 📄 Changelog
+
+See [CHANGELOG.md](https://github.com/komalsinghgurjar/python_libs_monorepo/blob/main/aes_gcm_txt_enc_lib/CHANGELOG.md) for version history.
